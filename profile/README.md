@@ -22,16 +22,6 @@
 | --- | --- | --- |
 | [dsh-conversation-anchors](https://github.com/deepseek-harness-plugins/dsh-conversation-anchors) | Codex 风格的会话锚点轨、悬停预览、点击定位与键盘跳转；兼容旧版 DSH 的思考过程折叠。 | [biggerboy/dsh-conversation-anchors](https://github.com/biggerboy/dsh-conversation-anchors) |
 
-## 快速开始
-
-安装会话锚点插件：
-
-```sh
-dsh plugin --profile web add github:deepseek-harness-plugins/dsh-conversation-anchors
-```
-
-安装完成后重启 `dsh web`。环境要求、设置项与版本兼容说明，请查看 [插件 README](https://github.com/deepseek-harness-plugins/dsh-conversation-anchors#readme)。
-
 ## 参与共建
 
 - **推荐插件或改进首页**：在 [组织首页仓库](https://github.com/deepseek-harness-plugins/.github/issues) 提交建议。
